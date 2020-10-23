@@ -1,1 +1,3 @@
-console.log(document);
+function sorting(){
+    console.log(document);
+}
